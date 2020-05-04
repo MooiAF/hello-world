@@ -1,14 +1,14 @@
   nav{
-    width: 90%;
-    height: 90px;
+    width: 100%;
+    height: 140px;
     background-color: lightblue;
-    padding: 25px 50px 50px;
+    padding: 10px 25px 25px;
   }
 
   div {
        background-color: teal;
        width: 500px;
-       height: 400px;
+       height: 500px;
        margin: auto;
        padding: 50px
    }
@@ -60,5 +60,5 @@ p::first-line {
 
 #para1 {
     text-align: ;
-    color: red;
+    color: teal;
     margin: inherit;
